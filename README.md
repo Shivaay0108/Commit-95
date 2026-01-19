@@ -1,1 +1,6 @@
 # Commit-95
+
+base Guild Role
+...
+base Guild
+...
